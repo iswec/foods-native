@@ -1,4 +1,4 @@
-![Tela Inicial do Aplicativo](C:\Users\icunha\estudos\food\src\assets)
+![Tela Inicial do Aplicativo](../food/src/assets/app.jpeg)
 
 
 # Welcome to your Expo app 👋
