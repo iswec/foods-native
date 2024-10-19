@@ -1,4 +1,4 @@
-![Tela Inicial do Aplicativo](../food/src/assets/app.jpeg)
+![Tela Inicial do Aplicativo](https://ibb.co/Jm5wjvW)
 
 
 # Welcome to your Expo app 👋
